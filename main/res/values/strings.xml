@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Stock App</string>
+
+    <string name="enter_data">Enter Data</string>
+    <string name="display_data">Display Data</string>
+    <string name="quit">Quit</string>
+
+    <string name="id">Customer ID (e.g. AB123456)</string>
+    <string name="name">Customer Name</string>
+    <string name="company">Company Name</string>
+    <string name="num_shares">Number of Shares</string>
+    <string name="price">Purchase Price</string>
+    <string name="welcome_message">COol ApP!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_to_file">Write to File</string>
+    <string name="bt_sumbit_text">Entry Complete</string>
+    <string name="homebutton">HOME</string>
+    <string name="tv_id">ID #</string>
+    <string name="tv_company">Name of Company</string>
+    <string name="tv_shares">Number of Shares</string>
+    <string name="tv_price">Price per Share</string>
+    <string name="tvworth">Worth of Stock</string>
+    <string name="tv_date">Date</string>
+
+</resources>
